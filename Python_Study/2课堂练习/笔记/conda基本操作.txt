@@ -1,0 +1,17 @@
+# 要查看所有环境的列表
+conda info --envs
+ 
+# 创建一个名为“snakes”的新环境，其中包含Python 3.5
+conda create --name snakes python=3.5
+ 
+# 激活某个环境
+source activate snakes
+ 
+# 停用snakes环境并返回基础环境
+source deactivate
+ 
+# 删除某个环境conda env remove -n 环境名称
+conda env remove -n snakes
+————————————————
+版权声明：本文为CSDN博主「天下皆白_唯我独黑」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_24909089/article/details/83542526

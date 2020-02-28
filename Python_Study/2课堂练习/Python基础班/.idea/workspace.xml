@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f97f1f9e-26f5-408e-b36b-a7c3f94caf95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PyCharm" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WyFINWGu2BV396pRSy6wAo2ZFk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04_函数" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04_函数" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/04_" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hm_04_绘制游戏图像">
+    <configuration name="hm_01_pygame入门" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15_飞机大战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_飞机大战/hm_01_pygame入门.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_02_使用Rec描述英雄" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15_飞机大战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_飞机大战/hm_02_使用Rec描述英雄.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_03_创建游戏窗口" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15_飞机大战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_飞机大战/hm_03_创建游戏窗口.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_04_绘制游戏图像" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15_飞机大战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_飞机大战/hm_04_绘制游戏图像.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15_飞机大战" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_飞机大战/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hm_04_绘制游戏图像" />
+        <item itemvalue="Python.hm_03_创建游戏窗口" />
+        <item itemvalue="Python.hm_02_使用Rec描述英雄" />
+        <item itemvalue="Python.hm_01_pygame入门" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f97f1f9e-26f5-408e-b36b-a7c3f94caf95" name="Default Changelist" comment="" />
+      <created>1577967268650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577967268650</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="111" key="#Inspections" timestamp="1581185636922">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="320" y="111" key="#Inspections/0.23.1440.846@0.23.1440.846" timestamp="1581185636922" />
+    <state x="184" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581437043752">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="184" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.846@0.23.1440.846" timestamp="1581437043752" />
+    <state x="439" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581290937095">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="439" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.846@0.23.1440.846" timestamp="1581290937095" />
+    <state x="408" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581244772132">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="408" y="181" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.846@0.23.1440.846" timestamp="1581244772132" />
+    <state x="458" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581336145095">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="458" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.846@0.23.1440.846" timestamp="1581336145095" />
+    <state x="507" y="208" key="FileChooserDialogImpl" timestamp="1581436913493">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="507" y="208" key="FileChooserDialogImpl/0.23.1440.846@0.23.1440.846" timestamp="1581436913493" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1581443300245">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.846@0.23.1440.846" timestamp="1581443300245" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1581443300245">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.846@0.23.1440.846" timestamp="1581443300245" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1581443300244">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.846@0.23.1440.846" timestamp="1581443300244" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1581443300245">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.846@0.23.1440.846" timestamp="1581443300245" />
+    <state width="1398" height="271" key="GridCell.Tab.1.bottom" timestamp="1581437116477">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.1.bottom/0.23.1440.846@0.23.1440.846" timestamp="1581437116477" />
+    <state width="1398" height="271" key="GridCell.Tab.1.center" timestamp="1581437116477">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.1.center/0.23.1440.846@0.23.1440.846" timestamp="1581437116477" />
+    <state width="1398" height="271" key="GridCell.Tab.1.left" timestamp="1581437116476">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.1.left/0.23.1440.846@0.23.1440.846" timestamp="1581437116476" />
+    <state width="1398" height="271" key="GridCell.Tab.1.right" timestamp="1581437116477">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="271" key="GridCell.Tab.1.right/0.23.1440.846@0.23.1440.846" timestamp="1581437116477" />
+    <state x="221" y="85" key="SettingsEditor" timestamp="1581437019018">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="221" y="85" key="SettingsEditor/0.23.1440.846@0.23.1440.846" timestamp="1581437019018" />
+    <state x="301" y="171" width="837" height="550" key="find.popup" timestamp="1581262375941">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="301" y="171" width="837" height="550" key="find.popup/0.23.1440.846@0.23.1440.846" timestamp="1581262375941" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_循环/hm_07_continue.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08_面向对象基础/hm_02_新建两个猫对象.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

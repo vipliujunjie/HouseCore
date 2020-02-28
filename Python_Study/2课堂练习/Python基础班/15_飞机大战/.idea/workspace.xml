@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42284426-efa9-47b6-a21b-fb4a4568f017" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="15_飞机大战" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XfhzFgFdCx7OOYihhtxEuxEqY5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RunManager" selected="Python.plane_main">
+    <configuration name="button" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15_飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/button.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_11_监听退出事件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15_飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_11_监听退出事件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm_12_演练精灵" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15_飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm_12_演练精灵.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15_飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="15_飞机大战" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plane_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plane_main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.button" />
+        <item itemvalue="Python.hm_12_演练精灵" />
+        <item itemvalue="Python.hm_11_监听退出事件" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42284426-efa9-47b6-a21b-fb4a4568f017" name="Default Changelist" comment="" />
+      <created>1581443316228</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581443316228</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581445573434">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="184" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.846@0.23.1440.846" timestamp="1581445573434" />
+    <state x="507" y="158" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581780909558">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="507" y="158" key="#com.intellij.ide.macro.MacrosDialog/0.23.1440.846@0.23.1440.846" timestamp="1581780909558" />
+    <state x="458" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581783834609">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="458" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.846@0.23.1440.846" timestamp="1581783834609" />
+    <state x="445" y="210" key="#com.intellij.tools.ToolEditorDialog" timestamp="1581782247028">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="445" y="210" key="#com.intellij.tools.ToolEditorDialog/0.23.1440.846@0.23.1440.846" timestamp="1581782247028" />
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom" timestamp="1582178674778">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.bottom/0.23.1440.846@0.23.1440.846" timestamp="1582178674778" />
+    <state width="1398" height="220" key="GridCell.Tab.0.center" timestamp="1582178674778">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.center/0.23.1440.846@0.23.1440.846" timestamp="1582178674778" />
+    <state width="1398" height="220" key="GridCell.Tab.0.left" timestamp="1582178674778">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.left/0.23.1440.846@0.23.1440.846" timestamp="1582178674778" />
+    <state width="1398" height="220" key="GridCell.Tab.0.right" timestamp="1582178674778">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="220" key="GridCell.Tab.0.right/0.23.1440.846@0.23.1440.846" timestamp="1582178674778" />
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom" timestamp="1581446520829">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.bottom/0.23.1440.846@0.23.1440.846" timestamp="1581446520829" />
+    <state width="1398" height="273" key="GridCell.Tab.1.center" timestamp="1581446520829">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.center/0.23.1440.846@0.23.1440.846" timestamp="1581446520829" />
+    <state width="1398" height="273" key="GridCell.Tab.1.left" timestamp="1581446520828">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.left/0.23.1440.846@0.23.1440.846" timestamp="1581446520828" />
+    <state width="1398" height="273" key="GridCell.Tab.1.right" timestamp="1581446520829">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.1.right/0.23.1440.846@0.23.1440.846" timestamp="1581446520829" />
+    <state x="221" y="85" key="SettingsEditor" timestamp="1581783062878">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="221" y="85" key="SettingsEditor/0.23.1440.846@0.23.1440.846" timestamp="1581783062878" />
+    <state x="378" y="203" width="683" height="486" key="find.popup" timestamp="1581784170895">
+      <screen x="0" y="23" width="1440" height="846" />
+    </state>
+    <state x="378" y="203" width="683" height="486" key="find.popup/0.23.1440.846@0.23.1440.846" timestamp="1581784170895" />
+  </component>
+</project>
